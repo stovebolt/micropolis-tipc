@@ -1,0 +1,27 @@
+MICROPOLIS FOR TIPC - DISK STICKERS
+Flying Horse Labs.  Code by Shurr Nuff (AI assistant), produced by Will (stovebolt)
+Micropolis is a registered trademark of Micropolis Corporation (Micropolis GmbH),
+licensed here as a courtesy of the owner.  GPL v3.  Not SimCity; no tie to EA.
+
+Cut along the lines.  One line per label.  Disks are listed in the order you use them.
+
+-------------------------------------------------------------
+BOOT (360K)
+MICROPOLIS for TIPC - BOOT
+TI MS-DOS 2.11 + AUTOEXEC.BAT.   Drive A:.   Keep it writable: saves go here too.
+-------------------------------------------------------------
+PROGRAM 360K  (for two 360K drives)
+MICROPOLIS for TIPC - PROGRAM 360K
+Drive B:.  Type COLOR (512K+) or MONO (256K+).  2 sample cities.
+-------------------------------------------------------------
+PROGRAM 720K  (for two 720K drives)
+MICROPOLIS for TIPC - PROGRAM 720K
+Drive B:.  Type COLOR (512K+) or MONO (256K+).  12 sample cities.
+-------------------------------------------------------------
+CITIES 720K  (optional)
+MICROPOLIS for TIPC - CITIES 720K
+All 24 sample cities.  Swap it into B: while playing and load one with L (for example B:KYOTO.CTY).
+-------------------------------------------------------------
+
+Short version for the box or the case (one line):
+  MICROPOLIS for TIPC - COLOR needs 512K, MONO needs 256K - two floppy drives - keyboard only

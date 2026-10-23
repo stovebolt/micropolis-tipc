@@ -1,0 +1,17 @@
+simtest
+simtrace
+*.o
+*.obj
+*.err
+*.map
+out/
+dosrun/
+art/build/*.npy
+art/build_bw/
+art/build/r*_*.png
+art/build/v2_*.png
+tbuild/*.OBJ
+tbuild/
+shots/*[0-9].png
+reloadtest
+__pycache__/
